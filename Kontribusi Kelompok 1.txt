@@ -1,0 +1,22 @@
+Kontribusi Kelompok 1
+
+1. Hasbi
+Membuat struktur utama aplikasi menggunakan Room Database dan Jetpack Compose.
+Membuat tampilan utama yang menampilkan daftar tugas, filter tugas, dan statistik tugas.
+Menambahkan logika status tugas seperti belum dikerjakan, proses, dan selesai.
+Membantu integrasi antara fungsi tambah, edit, dan hapus tugas agar berjalan lancar.
+
+2. Wajdi
+Membuat fitur tambah tugas (create) beserta tampilan form input data.
+Mengatur input seperti mata kuliah, deskripsi, deadline, dan jam pengumpulan.
+Menambahkan validasi agar data tidak kosong saat disimpan.
+
+3. Deden
+Membuat fitur edit tugas (update) agar data yang sudah ada bisa diperbarui.
+Menyesuaikan tampilan form edit dengan data yang sebelumnya disimpan.
+Membantu dalam pengujian tampilan setelah data diperbarui.
+
+4. pepy
+Membuat fitur hapus tugas (delete) 
+Menyesuaikan posisi tombol edit dan hapus pada tampilan daftar tugas.
+Membantu pengujian akhir tampilan dan fungsi CRUD.
