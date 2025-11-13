@@ -20,3 +20,7 @@ Membantu dalam pengujian tampilan setelah data diperbarui.
 Membuat fitur hapus tugas (delete) 
 Menyesuaikan posisi tombol edit dan hapus pada tampilan daftar tugas.
 Membantu pengujian akhir tampilan dan fungsi CRUD.
+
+
+Semua anggota berkontribusi dalam pengembangan aplikasi Tugas Kuliah, mulai dari pembuatan fitur CRUD, desain tampilan, hingga pengujian aplikasi agar berjalan dengan baik.
+Kolaborasi dilakukan secara bertahap, sehingga setiap anggota memahami proses pengembangan aplikasi dari awal hingga selesai.
